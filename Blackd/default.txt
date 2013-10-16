@@ -1,0 +1,13 @@
+setDontRetryAttacks
+setLootOn
+setBot AutoEatFood=1
+setNoFollow
+setLoot 39 0D   #Crown Helmet
+setLoot F1 0B   #Amulet of Loss
+setLoot D2 0B   #White Pearls
+setLoot 7A 0D   #Power Bolts
+setLoot DB 0B   #Platynki
+#setLoot 1A 0C   #Ring of Healing
+#setLoot E8 0B   #Might Ring
+setMeleeKill Rat
+gotoScriptLine 0
